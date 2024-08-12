@@ -1,2 +1,2 @@
-# Tv1
+#EXTM3U
 M3u 

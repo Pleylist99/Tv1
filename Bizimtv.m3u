@@ -7,8 +7,6 @@ http://stream.tvcdn.net/azerbaycan/arb.m3u8
 http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png,ARB Gunes
 http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1ea5539e-55d5-49b4-9b85-60ada4b321d1.png,Aznews TV
-http://stream.tvcdn.net/azerbaycan/aznews-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png,AZ TV
 http://stream.tvcdn.net/azerbaycan/az-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png,Azad TV
